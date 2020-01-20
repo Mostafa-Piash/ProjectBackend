@@ -1,0 +1,13 @@
+C:\Users\Piash\source\repos\Project Backend\API.Service\bin\Debug\netcoreapp3.1\API.Service.deps.json
+C:\Users\Piash\source\repos\Project Backend\API.Service\bin\Debug\netcoreapp3.1\API.Service.dll
+C:\Users\Piash\source\repos\Project Backend\API.Service\bin\Debug\netcoreapp3.1\API.Service.pdb
+C:\Users\Piash\source\repos\Project Backend\API.Service\bin\Debug\netcoreapp3.1\API.Data.dll
+C:\Users\Piash\source\repos\Project Backend\API.Service\bin\Debug\netcoreapp3.1\API.Repository.dll
+C:\Users\Piash\source\repos\Project Backend\API.Service\bin\Debug\netcoreapp3.1\API.Data.pdb
+C:\Users\Piash\source\repos\Project Backend\API.Service\bin\Debug\netcoreapp3.1\API.Repository.pdb
+C:\Users\Piash\source\repos\Project Backend\API.Service\obj\Debug\netcoreapp3.1\API.Service.csprojAssemblyReference.cache
+C:\Users\Piash\source\repos\Project Backend\API.Service\obj\Debug\netcoreapp3.1\API.Service.AssemblyInfoInputs.cache
+C:\Users\Piash\source\repos\Project Backend\API.Service\obj\Debug\netcoreapp3.1\API.Service.AssemblyInfo.cs
+C:\Users\Piash\source\repos\Project Backend\API.Service\obj\Debug\netcoreapp3.1\API.Service.csproj.CopyComplete
+C:\Users\Piash\source\repos\Project Backend\API.Service\obj\Debug\netcoreapp3.1\API.Service.dll
+C:\Users\Piash\source\repos\Project Backend\API.Service\obj\Debug\netcoreapp3.1\API.Service.pdb

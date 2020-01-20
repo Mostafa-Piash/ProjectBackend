@@ -1,0 +1,8 @@
+C:\Users\Piash\source\repos\Project Backend\Api.Data\bin\Debug\netcoreapp3.1\API.Data.deps.json
+C:\Users\Piash\source\repos\Project Backend\Api.Data\bin\Debug\netcoreapp3.1\API.Data.dll
+C:\Users\Piash\source\repos\Project Backend\Api.Data\bin\Debug\netcoreapp3.1\API.Data.pdb
+C:\Users\Piash\source\repos\Project Backend\Api.Data\obj\Debug\netcoreapp3.1\API.Data.csprojAssemblyReference.cache
+C:\Users\Piash\source\repos\Project Backend\Api.Data\obj\Debug\netcoreapp3.1\API.Data.AssemblyInfoInputs.cache
+C:\Users\Piash\source\repos\Project Backend\Api.Data\obj\Debug\netcoreapp3.1\API.Data.AssemblyInfo.cs
+C:\Users\Piash\source\repos\Project Backend\Api.Data\obj\Debug\netcoreapp3.1\API.Data.dll
+C:\Users\Piash\source\repos\Project Backend\Api.Data\obj\Debug\netcoreapp3.1\API.Data.pdb
